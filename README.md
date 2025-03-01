@@ -1,2 +1,3 @@
-# AI-PROJECTT
-This repository will contain my journey to create ai
+DAY 1 
+Variables, Basic math, def
+making a simple calculator to count discount
